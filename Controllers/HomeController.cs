@@ -15,6 +15,7 @@ namespace ConnectGit.Controllers
 
         public HomeController(ILogger<HomeController> logger)
         {
+            //Test
             _logger = logger;
         }
 
